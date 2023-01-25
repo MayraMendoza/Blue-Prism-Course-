@@ -1,0 +1,29 @@
+Blue Prism foundations Course -Udemy
+
+Section 1 : Introduction
+
+What is Robotic Process Automation?
+-Automation of repeatable and rule based tasks using a software which is installed on a user’s computer called Robot or BOT.
+The BOT us Programmed to perform the sequence of steps that human user does.
+-The BOT will work exactly like a human user by interacting with the front end of the applications. (Not integrated)
+
+Advantages of RPA 
+use existing IT infrastructure without making changes to the current system or databases.
+Robot can work 24/7 
+Robots can work across multiple platforms like Windows, Web, Java and mainframe applications.
+One Robot can be trained to do more than one process at different schedules. 
+	(example bot can send interview requests from 9:00 am -12:00pm and other emails after 12:20pm -2:00pm)
+Improves efficiency and accuracy 
+
+Limitations of RPA 
+The working speed (AHT) of the BOT is limited to the speed of the application 
+Tasks that require judgements and creativity cannot be automated 
+Even minor changes to the applications will need the Robots to be configured. 
+	(example if a button name is changed from “start” to “next” in an application 
+	the bot will beed to be reconfigured to select “next”).
+
+Introduction to Blue Prism 
+Blue prism is a software that is installed on a users computer and program it to do a sequence of steps to mimic what the user does. 
+like launching an application 
+Comparing to images and performing optical character recognition 
+This is accomplished by creating process flow diagrams in blue prism  that are similar to Visio diagrams where each component in the flowchart is configured to do a specific action.
