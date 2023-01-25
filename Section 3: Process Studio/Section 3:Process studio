@@ -1,0 +1,29 @@
+Section3: Process studio 
+Introduction to process studio 
+Studio module has two parts -Process  Studio and object studio 
+Process studio - is where the actual processes are created 
+Object studio - Where Visual Business objects (VBO’s). VBO’s are created to interact with other applications and that are used but the processes created in the process studio.
+
+process studio has 
+Flowchart elements in the tool box on the left 
+Each element is called a stage and every stage has a unique functionality. 
+
+Calc, Data items and multi calc stages 
+Calc stage - where you can do calculations 
+Outputs will need to be stored. We can store the output in a data item. 
+Data item is  a container that stores information. This information can be a number, text or image. (Its very similar to a variable) 
+Double click on data item to open data properties. There you will be able to name the data item, select data type and set an initial value. 
+
+Once data type has been created it will appear on the far right under data items (in the appropriate data type category). 
+Data items can be used instead of hard coding an expression in calc stage. 
+
+Evaluate Expression- allows you to test the expression with input data. (Its helpful when we have complex data to be evaluated).
+
+Multi Calc stage
+Under expressions you can add calculations in order starting from the top.
+Example 
+Expression:                        Strore in:
+[Data1] +[Data2]                 Sum
+[Sum]/[Data1]                     Data2
+
+When you have multiple calculations to be done in a sequence, it is always better to use multi calc stage because it is faster.
