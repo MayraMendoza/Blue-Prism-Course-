@@ -1,0 +1,22 @@
+Section 2: Installation and configuration 
+Supported windows system 
+
+Prerequisites 
+Supported windows operating system 
+Microsoft .net framework 4
+Supported Microsoft SQL sever database 
+
+Blue Prism modules overview 
+
+Home -
+
+Studio- where you create processes by drawing flowcharts, creating business objects that will interact with other applications and configure the elements of the flowchart to do a specific action. ->Studio has two submodules, process studio and object studio 
+
+Control - control room is the place you implement and control the processes that you have designed and created in the studio module.
+It is also the place where you schedule the processes, manage sessions and allocate resources.
+
+Dashboard module- where you create a dashboard with lots of graphs and charts called tiles that are dynamically generated from different data sets. (Charts are customizable)
+
+Release - the release manager module where you create packages and release files so that you can move the code between various environments like development testing and production. 
+
+System management module- purpose is primarily to provide sysadmin functionalities like user account management setting up environment variables, storing and managing credentials, managing audit logs etc. 
